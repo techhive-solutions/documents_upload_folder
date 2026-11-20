@@ -52,7 +52,7 @@ The **Upload Folder** action sits right under the **New** button in Odoo Documen
 
 ## Support
 
-Built by **TechHive Solutions**, a certified Odoo Ready Partner and official Anthropic Claude Partner. We build AI integrations, ERP setups, custom Odoo plugins, and enterprise apps.
+Built by **TechHive Solutions**, a certified Odoo Partner and official Anthropic Claude Partner. We build AI integrations, ERP setups, custom Odoo plugins, and enterprise apps.
 
 - 🌐 [techhivesolutions.com](https://techhivesolutions.com)
 - ✉️ [info@techhivesolutions.com](mailto:info@techhivesolutions.com)
